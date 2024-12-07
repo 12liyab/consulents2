@@ -4,7 +4,7 @@
 
   =>  Template License : https://github.com/12liyab/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Liyab Kwasi
 
   =>  Author Website   : https://htmlcodex.com
 
