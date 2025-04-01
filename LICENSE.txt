@@ -1,6 +1,6 @@
  
 
- => Liyab TEMPLATE LICENSE BY 
+ => Liyab TEMPLATE LICENSE BY LIYAB
 
  All HTML templates by Liyab are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author’s credit link/attribution link/backlink.
 
