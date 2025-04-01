@@ -8,4 +8,4 @@
 
   =>  Author Website   :https://github.com/12liyab
 
-  =>  About Liyab Kwasi : Liyab is one of the top creators and publishers of  HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at (https://github.com/12liyab/about-us )
+  =>  About Liyab Kwasi : Liyab is one of the top creators and publishers of HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at (https://github.com/12liyab/about-us )
