@@ -1,4 +1,4 @@
-  =>  Template Name    : CONSULT - Consultancy Website Temp
+  =>  Template Name    : CONSULT - Consultancy Website Tem
 
   =>  Template Link    :https://github.com/12liyab/consultancy-website-template-free
 
