@@ -1,4 +1,4 @@
-  =>  Template Name    : CONSULT - Consultancy Website For Consults By Liy
+  =>  Template Name    : CONSULT - Consultancy Website For Consults By Liya
 
   =>  Template Link    :https://github.com/12liyab/consultancy-website-template-free
 
