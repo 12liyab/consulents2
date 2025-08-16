@@ -4,7 +4,7 @@
 
   =>  Template License : https://github.com/12liyab/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : Liyab Kwasi
+  =>  Template Author  : Liyab Kwasi 
 
   =>  Author Website   :https://github.com/12liyab
 
