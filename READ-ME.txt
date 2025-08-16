@@ -2,7 +2,7 @@
 
   =>  Template Link    :https://github.com/12liyab/consultancy-website-template-free
 
-  =>  Template License : https://github.com/12liyab/license (or read the LICENSE.txt file)
+  =>  Template License : https://github.com/12liyab/license (or read the LICENSE.txt file) 
 
   =>  Template Author  : Liyab Kwasi
 
